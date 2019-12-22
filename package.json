@@ -13,7 +13,7 @@
     "grid",
     "ie11"
   ],
-  "author": "Mariusz Baran <mariusz.baran23@gmail.com>",
+  "author": "Mariusz Baran",
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0",
