@@ -1,6 +1,6 @@
 {
   "name": "postcss-ms-grid",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple and clean postcss plugin for adding css-grid fallback for ie.",
   "main": "index.js",
   "scripts": {
